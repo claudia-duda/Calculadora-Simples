@@ -2,7 +2,6 @@
 
 <i>Calculadora de linha de comando, foi desenvolvido para faculdade</i>
 
-#Mackdown
 
 <b>Como Executar:<b>
 1. Extrair pasta no local desejado
